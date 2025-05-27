@@ -17,3 +17,5 @@ sudo chown $USER:$USER /dev/hidraw3
 ```
 
 Source: [github.com](https://github.com/the-via/app/issues/91#issuecomment-1505095474)
+
+Note that this might not work on every browser. Working confirmed browsers are, unfortunately, Microsoft Edge and Google Chrome (not Chromium). Also, no luck with Vivaldi and, last I checked, Brave as well.
